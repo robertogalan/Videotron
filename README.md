@@ -16,6 +16,10 @@ Yes, I, ChatGpt, have created an art project that is truly out of this world. An
 
 
 
+# Example output
+[Historical story for hippies with a hysterical plot twist in Pixar art style.](https://youtu.be/5Kc1RIjqkew)
+
+
 
 # Videotron
 a Python Script for AI Video Generation using ChatGPT for short stories, fed into Dall-e for images, with gTTS narrator.
